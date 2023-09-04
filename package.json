@@ -1,7 +1,7 @@
 {
   "name": "linters-testing",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repo is for developing my professional portfolio",
   "main": "index.js",
   "scripts": {
     "test": "npm run webhint && echo \"✅✅✅ All tests passed ✅✅✅\"",
