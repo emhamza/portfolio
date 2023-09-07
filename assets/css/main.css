@@ -1839,6 +1839,10 @@ pre code {
   .container {
     max-width: calc(100% - 3.375em);
   }
+
+  #msg-btn{
+    padding: 0 2%;
+  }
 }
 
 /* Section/Article */
